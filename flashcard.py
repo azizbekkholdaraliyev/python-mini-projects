@@ -1,2 +1,0 @@
-flashcard = {}
-user = input("flashcard ")
